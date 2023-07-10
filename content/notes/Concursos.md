@@ -1,5 +1,5 @@
 URL: /carreiras/concursos
-Publicador: [[Publicador A]]
+Publicador: [[notes/Publicador A]]
 
 Concurso
 		Usar categoria Ano

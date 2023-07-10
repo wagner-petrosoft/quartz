@@ -3,23 +3,23 @@ title: 🪴 Quartz 3.3
 enableToc: false
 ---
 
-[[Jovem aprendiz]]
+[[notes/Jovem aprendiz]]
 
-[[Estágios]]
+[[notes/Estágios]]
 
-[[Concursos]]
+[[notes/Concursos]]
 
-[[Cultural]]
+[[notes/Cultural]]
 
-[[Produtos]]
+[[notes/Produtos]]
 
-[[Leilão]]
+[[notes/Leilão]]
 
-[[Editais de credenciamento]]
+[[notes/Editais de credenciamento]]
 
-[[Alienação de bens imóveis]]
+[[notes/Alienação de bens imóveis]]
 
-[[Descomissionamento]]
+[[notes/Descomissionamento]]
 
 Leilão,  Edital de Credenciamento e Alienação de Imóveis têm praticamente os mesmos campos. Como usar as categorias de modo a diferenciar entre eles?
 Usar um único repo de webcontent tem o problema	de que uma categoria deveria ser obrigatório no Credenciamento mas não no Leilão e vice-versa. 

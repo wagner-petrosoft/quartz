@@ -1,5 +1,5 @@
 URL: /carreiras/jovem-aprendiz
-Publicador: [[Publicador A]]
+Publicador: [[notes/Publicador A]]
 
 Cadastro:
 Jovem aprendiz
