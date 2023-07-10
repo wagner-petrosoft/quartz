@@ -1,5 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
+baseURL = "wagner-petrosoft.github.io/quartz"
+languageCode = "pt-br"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [

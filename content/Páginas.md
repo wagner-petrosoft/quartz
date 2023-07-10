@@ -1,8 +1,3 @@
----
-title: 🪴 Quartz 3.3
-enableToc: false
----
-
 [[Jovem aprendiz]]
 
 [[Estágios]]
@@ -23,4 +18,9 @@ enableToc: false
 
 Leilão,  Edital de Credenciamento e Alienação de Imóveis têm praticamente os mesmos campos. Como usar as categorias de modo a diferenciar entre eles?
 Usar um único repo de webcontent tem o problema	de que uma categoria deveria ser obrigatório no Credenciamento mas não no Leilão e vice-versa. 
-Para resolver isso somente se nenhuma categoria fosse obrigatório, mas isso não acho uma
+Para resolver isso somente se nenhuma categoria fosse obrigatório, mas isso não acho uma boa de ser feito.
+
+
+
+
+
